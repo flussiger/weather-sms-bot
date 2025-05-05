@@ -56,7 +56,7 @@ schedule.every().day.at("08:00").do(job)
 
 print("🕓 Running... Waiting to send weather at 08:00 every day.")
 
-# Optional: Send now for testing
+# Optional: Send now for testing remove the "#" and it will send instantly
 #job()
 
 # Step 6: Keep the script running
